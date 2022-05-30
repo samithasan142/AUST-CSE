@@ -1,0 +1,10 @@
+Assignment1 (Section: A & B)
+----------------------------------
+
+Task:
+Prepare a report to differentiate between traditional process models and Agile models. The maximum page limit of your report is 10 pages. Include your name and student id on the cover page of your report. Submit your report as a pdf file in the attached google form. The name of your pdf file should be as follows, StudentID_StudentName.pdf
+
+Reading Materials: SE Lectures 1, 2, 3, 4.
+
+Instructions
+- Select a topic or scenario to differentiate between traditional and Agile models
