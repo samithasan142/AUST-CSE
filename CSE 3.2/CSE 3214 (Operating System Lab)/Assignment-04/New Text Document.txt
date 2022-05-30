@@ -1,0 +1,4 @@
+https://github.com/dss1997/deadlock-detection/blob/master/deadlock.c
+
+
+https://github.com/mahinmjm/Deepth-First-Search/blob/master/Deadlockdetection.java
