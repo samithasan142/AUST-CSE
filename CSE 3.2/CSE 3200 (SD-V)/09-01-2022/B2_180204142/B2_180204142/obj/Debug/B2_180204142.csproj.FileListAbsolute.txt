@@ -1,0 +1,22 @@
+C:\Users\acer\source\repos\B2_180204142\B2_180204142\bin\Debug\B2_180204142.exe.config
+C:\Users\acer\source\repos\B2_180204142\B2_180204142\bin\Debug\B2_180204142.exe
+C:\Users\acer\source\repos\B2_180204142\B2_180204142\bin\Debug\B2_180204142.pdb
+C:\Users\acer\source\repos\B2_180204142\B2_180204142\obj\Debug\B2_180204142.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\B2_180204142\B2_180204142\obj\Debug\B2_180204142.Form1.resources
+C:\Users\acer\source\repos\B2_180204142\B2_180204142\obj\Debug\B2_180204142.Properties.Resources.resources
+C:\Users\acer\source\repos\B2_180204142\B2_180204142\obj\Debug\B2_180204142.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\B2_180204142\B2_180204142\obj\Debug\B2_180204142.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\B2_180204142\B2_180204142\obj\Debug\B2_180204142.exe
+C:\Users\acer\source\repos\B2_180204142\B2_180204142\obj\Debug\B2_180204142.pdb
+C:\Users\acer\source\repos\B2_180204142\B2_180204142\obj\Debug\B2_180204142.Purchase.resources
+E:\AUST CSE\3.2 (Origin 42)\CSE 3200 (Software Development-V)\09-01-2022\B2_180204142\B2_180204142\bin\Debug\B2_180204142.exe.config
+E:\AUST CSE\3.2 (Origin 42)\CSE 3200 (Software Development-V)\09-01-2022\B2_180204142\B2_180204142\bin\Debug\B2_180204142.exe
+E:\AUST CSE\3.2 (Origin 42)\CSE 3200 (Software Development-V)\09-01-2022\B2_180204142\B2_180204142\bin\Debug\B2_180204142.pdb
+E:\AUST CSE\3.2 (Origin 42)\CSE 3200 (Software Development-V)\09-01-2022\B2_180204142\B2_180204142\obj\Debug\B2_180204142.csprojAssemblyReference.cache
+E:\AUST CSE\3.2 (Origin 42)\CSE 3200 (Software Development-V)\09-01-2022\B2_180204142\B2_180204142\obj\Debug\B2_180204142.Form1.resources
+E:\AUST CSE\3.2 (Origin 42)\CSE 3200 (Software Development-V)\09-01-2022\B2_180204142\B2_180204142\obj\Debug\B2_180204142.Properties.Resources.resources
+E:\AUST CSE\3.2 (Origin 42)\CSE 3200 (Software Development-V)\09-01-2022\B2_180204142\B2_180204142\obj\Debug\B2_180204142.Purchase.resources
+E:\AUST CSE\3.2 (Origin 42)\CSE 3200 (Software Development-V)\09-01-2022\B2_180204142\B2_180204142\obj\Debug\B2_180204142.csproj.GenerateResource.cache
+E:\AUST CSE\3.2 (Origin 42)\CSE 3200 (Software Development-V)\09-01-2022\B2_180204142\B2_180204142\obj\Debug\B2_180204142.csproj.CoreCompileInputs.cache
+E:\AUST CSE\3.2 (Origin 42)\CSE 3200 (Software Development-V)\09-01-2022\B2_180204142\B2_180204142\obj\Debug\B2_180204142.exe
+E:\AUST CSE\3.2 (Origin 42)\CSE 3200 (Software Development-V)\09-01-2022\B2_180204142\B2_180204142\obj\Debug\B2_180204142.pdb
