@@ -1,0 +1,15 @@
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\bin\Debug\net6.0\Assignment2_B2.exe
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\bin\Debug\net6.0\Assignment2_B2.deps.json
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\bin\Debug\net6.0\Assignment2_B2.runtimeconfig.json
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\bin\Debug\net6.0\Assignment2_B2.dll
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\bin\Debug\net6.0\ref\Assignment2_B2.dll
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\bin\Debug\net6.0\Assignment2_B2.pdb
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\obj\Debug\net6.0\Assignment2_B2.csproj.AssemblyReference.cache
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\obj\Debug\net6.0\Assignment2_B2.GeneratedMSBuildEditorConfig.editorconfig
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\obj\Debug\net6.0\Assignment2_B2.AssemblyInfoInputs.cache
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\obj\Debug\net6.0\Assignment2_B2.AssemblyInfo.cs
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\obj\Debug\net6.0\Assignment2_B2.csproj.CoreCompileInputs.cache
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\obj\Debug\net6.0\Assignment2_B2.dll
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\obj\Debug\net6.0\ref\Assignment2_B2.dll
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\obj\Debug\net6.0\Assignment2_B2.pdb
+I:\Cholo Moja Kori\spring-21= 3.2\Sd lab\Lab1\assignment\Assignment2_B2\obj\Debug\net6.0\Assignment2_B2.genruntimeconfig.cache
