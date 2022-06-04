@@ -1,0 +1,245 @@
+body {
+  font-family: "Montserrat";
+}
+
+.container {
+  position: relative;
+  margin-top: 120px;
+  margin-bottom: 120px;
+  box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  overflow: hidden;
+  max-width: 1160px;
+}
+
+/* Image Controler */
+.image-container {
+  position: relative;
+  background-image: url("https://images.squarespace-cdn.com/content/v1/55d1552fe4b0be96a30c6337/1555572259847-CJ1D4E4XHQY6MZPAT4AA/building-protek-247.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px;
+}
+
+.image-container::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  /*background-color: rgba(10, 9, 27, .7);*/
+  /*background-color: rgba(12,11,21, .75);*/
+  background: rgba(0, 0, 0, 0.78);
+}
+
+.subheading,
+.heading {
+  position: relative;
+  z-index: 2;
+}
+
+.subheading .spacing {
+  display: inline-block;
+  min-height: 3px;
+  min-width: 27%;
+  transform: translateY(-150%);
+  background-color: #009999;
+}
+
+.subheading .text-container .text {
+  color: #ffffff;
+  font-size: 13px;
+  letter-spacing: 3px;
+}
+
+.subheading .text-container .left-bracket,
+.subheading .text-container .right-bracket {
+  color: #009999;
+  font-weight: 900;
+  font-size: 17px;
+}
+
+.subheading .text-container .right-bracket {
+  margin-left: -6px;
+}
+
+.heading {
+  font-size: 55px;
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 60px;
+  padding: 10px 0px 15px 0px;
+}
+
+.icon-contain {
+  position: relative;
+  margin-top: 43px !important;
+  color: #ffffff;
+  z-index: 2;
+  margin-bottom: 35px !important;
+}
+
+.icon-holder {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.icon-holder .icon .fas {
+  font-size: 25px;
+  margin-right: 15px;
+}
+
+.icon-holder:hover .icon .fas {
+  color: #009999;
+  transform: scale(1.2);
+}
+
+.icon-holder .text h3 {
+  font-size: 19px;
+  font-weight: 600;
+}
+
+.icon-holder .text p {
+  font-size: 15px;
+}
+
+.icon-holder .text p a {
+  text-decoration: none;
+  color: #ffffff;
+  transform: 300ms;
+}
+
+.icon-holder .text p a:hover {
+  color: #009999;
+}
+
+.icon-button {
+  position: relative;
+  z-index: 2;
+}
+
+/* Form Controler */
+.form-container {
+  padding: 50px 40px;
+}
+
+.message {
+  text-align: center;
+  font-size: 13px;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: #009999;
+  margin-bottom: 5px;
+}
+
+label {
+  padding-bottom: 5px;
+  font-size: 15px;
+}
+
+input {
+  min-height: 50px;
+}
+
+.field {
+  margin-top: 15px;
+}
+
+.name-container {
+  margin: 0px;
+}
+
+.field-name {
+  display: flex;
+  justify-content: space-between;
+}
+
+.first-name,
+.last-name {
+  width: 48.5%;
+}
+
+.textarea {
+  min-height: 100px !important;
+  max-height: 320px;
+}
+
+.required-mark {
+  padding-left: 5px;
+  color: #009999;
+}
+
+input[type="submit"] {
+  padding: 15px 40px;
+  border-radius: 45px;
+  border: none;
+  background-color: #7c259a;
+  background: #009999;
+  font-weight: 600px;
+  font-size: 16px;
+  color: #ffffff;
+  transform: 300ms;
+}
+
+input[type="submit"]:hover {
+  background: #007373;
+}
+
+input:focus,
+textarea:focus {
+  border-color: rgba(0, 153, 153, 0.6) !important;
+  box-shadow: 0 0 7px rgba(0, 153, 153, 0.6) !important;
+}
+
+.msg {
+  background-color: #212529;
+}
+
+.msg p {
+  text-align: center;
+  color: #ffffff;
+  padding: 30px 60px 20px 60px;
+  font-weight: 600;
+  border-bottom: 3px solid #ffffff;
+}
+
+.tblone td {
+  padding: 5px 10px;
+  text-align: center;
+}
+
+table.tblone tr:nth-child(2n + 1) {
+  background: #fff;
+  height: 35px;
+}
+
+table.tblone tr:nth-child(2n) {
+  background: #fdf0f1;
+  height: 35px;
+}
+
+.tblone.table.table-dark td {
+  text-align: center !important;
+  background: #fdf0f1 !important;
+}
+
+table.table.table-dark.table-hover th {
+  padding: 30px 10px 20px 10px;
+}
+
+table.table.table-dark.table-hover td {
+  padding: 10px;
+}
+
+table.table.table-dark.table-hover {
+  margin-bottom: 0px !important;
+  text-align: center !important;
+}
+
+.back-button {
+  text-align: center;
+  background-color: #212529;
+  padding: 25px 0px 30px 0px;
+}
