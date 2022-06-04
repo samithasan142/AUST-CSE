@@ -1,0 +1,20 @@
+***For Attach a database
+1) Database section a giye right click.
+2) Then Attach
+3) Add
+4) Select file (MyCompany.mdf) then Ok
+5) Then again Ok
+
+
+***For see database diagram 
+1) Database (MyCompany) te right click kore Properties a jaba
+2) Left side a Files a click korte hobe
+3) Owner option a giye browse
+4) Akdom nicher option 2ta select kore dite hobe (sa & PC name)
+5) Ok
+
+
+***Before Attaching database files:
+1) Download database folder (2files: dot mdf & dot ldf)
+2) This PC -> C: -> Program Files -> Microsoft SQL Server -> MSSQL 15.SQLEXPRESS -> MSSQL -> DATA
+3) Then paste 2 files in this path
