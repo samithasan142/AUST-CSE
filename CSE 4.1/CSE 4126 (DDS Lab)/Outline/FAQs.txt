@@ -1,0 +1,9 @@
+If you need to know anything/documentation about oracle 10g
+then please go to this site = https://docs.oracle.com/cd/B19306_01/server.102/b14200/toc.htm 
+
+If you have any questions like "why we use varchar2 but not varchar ? "
+Please go to this site = http://www.orafaq.com/ and use the search box
+
+Another good site = https://www.techonthenet.com/oracle
+
+To find out what is the error from error code = https://www.techonthenet.com/oracle/errors/index.php
