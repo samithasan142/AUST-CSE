@@ -1,0 +1,5 @@
+https://www.swi-prolog.org/download/stable
+https://winpython.github.io/
+https://colab.research.google.com/
+https://www.python.org/
+https://www.jetbrains.com/pycharm/
