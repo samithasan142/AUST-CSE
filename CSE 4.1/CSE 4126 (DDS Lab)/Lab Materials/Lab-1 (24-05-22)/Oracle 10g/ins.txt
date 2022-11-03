@@ -1,0 +1,21 @@
+1)Install with default condition,
+when you are giving the password during the time of installation
+remember it
+
+2) after the istallation, go to "C:\oraclexe\app\oracle\product\10.2.0\server\BIN" (the folder where u installed oracle) 
+ and click "sqlplus.exe" .then give the user name as 'system' and
+use the password you have given in time of installation and login and enjoy quering.
+
+or
+
+after the istallation, go to start menu & oracle 10g folder,
+start 'go to database homepage' then
+give the user name as 'system' and
+use the password you have given in time of installation and login,
+you will see four icons,
+to go to the visual command mode,
+select 'SQL' icon, then you see another four icons,
+select 'SQL Commands' then,
+wow! give the command in the upper writing block click run,
+remember to give a new command you have to erase old command and
+the click run, otherwise it will generate error.

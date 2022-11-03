@@ -1,0 +1,19 @@
+SET SERVEROUTPUT ON;
+
+CREATE OR REPLACE FUNCTION test1(A IN money.id%TYPE)
+RETURN number
+IS
+
+BEGIN
+	DBMS_OUTPUT.PUT_LINE(A);
+	return A+10;
+END test1;
+/
+
+DECLARE
+	NUM number;
+BEGIN
+	NUM := test1(2);
+	DBMS_OUTPUT.PUT_LINE(NUM);
+END;
+/
