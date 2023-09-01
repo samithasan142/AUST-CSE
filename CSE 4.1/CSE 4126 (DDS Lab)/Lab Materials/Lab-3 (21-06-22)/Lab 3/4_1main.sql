@@ -1,4 +1,0 @@
-BEGIN
-	isODD;
-END;
-/

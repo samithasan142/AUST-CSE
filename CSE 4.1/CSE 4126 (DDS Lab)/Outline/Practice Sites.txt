@@ -1,8 +1,0 @@
-SQL/Database/Artificial Intelligence Challenges site:
-=============================================
-You can solve:
-SQL challenges from https://www.hackerrank.com/domains/sql
-Database challenges from https://www.hackerrank.com/domains/databases
-Artificial Intelligence challenges from https://www.hackerrank.com/domains/ai
-This is "not related" to our online / offline.
-Just in case, if you are interested, you can practise in your free time and get AC or WA.
